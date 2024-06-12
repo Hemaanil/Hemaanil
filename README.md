@@ -13,7 +13,7 @@ Hi 👋, I'm **Hemalatha**
 
 - 💬 Ask me about **Power BI, SQL, EXCEL, Python**
 
-- 📫 How to reach me **linkedin.com/in/hema-latha-5b1b58215**
+- 📫 How to reach me [linkedin.com/in/hema-latha-5b1b58215](linkedin.com/in/hema-latha-5b1b58215)
 
 - 📄 Know about my experiences - **Former IT HR**
 
