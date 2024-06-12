@@ -1,13 +1,13 @@
-Hi 👋, I'm Hemalatha
+Hi 👋, I'm **Hemalatha**
 ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif)
 <h3 align="center">A passionate Data Analyst</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hemaanil&label=Profile%20views&color=0e75b6&style=flat" alt="hemaanil" /> </p>
 
-- 🔭 I’m currently working on ** Demo Projects**
+- 🔭 I’m currently working on **Demo Projects**
 
-- 🌱 I’m currently learning **Data Story Telling & Generative AI((Gemini Pro, Open AI, Llama, Langchain, Pinecone, Vector Databases)**
+- 🌱 I’m currently learning **Data Story Telling & Generative AI(Gemini Pro, Open AI, Llama, Langchain, Pinecone, Vector Databases)**
 
-- 👯 I’m Open to collaborate on [Data Analysis Projects](or other wise)
+- 👯 I’m Open to collaborate on **Data Analysis Projects** 
 
 - 👨‍💻 All of my projects are available at [https://github.com/Hemaanil](https://github.com/Hemaanil)
 
@@ -15,9 +15,9 @@ Hi 👋, I'm Hemalatha
 
 - 📫 How to reach me **linkedin.com/in/hema-latha-5b1b58215**
 
-- 📄 Know about my experiences Former IT HR
+- 📄 Know about my experiences - **Former IT HR**
 
-- ⚡ Fun fact **I Enjo Exploring New skills and creating MEMES**
+- ⚡ Fun fact **I Enjoy Exploring New skills and creating MEMES**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
