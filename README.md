@@ -3,7 +3,7 @@ Hi 👋, I'm Hemalatha
 <h3 align="center">A passionate Data Analyst</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hemaanil&label=Profile%20views&color=0e75b6&style=flat" alt="hemaanil" /> </p>
 
-- 🔭 I’m currently working on **Sales Insights Demo Project**
+- 🔭 I’m currently working on ** Demo Projects**
 
 - 🌱 I’m currently learning **Data Story Telling & Generative AI((Gemini Pro, Open AI, Llama, Langchain, Pinecone, Vector Databases)**
 
@@ -15,7 +15,7 @@ Hi 👋, I'm Hemalatha
 
 - 📫 How to reach me **linkedin.com/in/hema-latha-5b1b58215**
 
-- 📄 Know about my experiences [Former IT HR](Former IT HR)
+- 📄 Know about my experiences Former IT HR
 
 - ⚡ Fun fact **I Enjo Exploring New skills and creating MEMES**
 
