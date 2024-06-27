@@ -17,7 +17,7 @@ Hi 👋, I'm **Hemalatha**
 
 - 📄 Know about my experiences - **Former IT HR**
 
-- ⚡ Fun fact **I Enjoy Exploring New skills and creating MEMES**
+- ⚡ Fun fact **I Enjoy Exploring New skills **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
