@@ -5,7 +5,7 @@ Hi 👋, I'm **Hemalatha**
 
 - 🔭 I’m currently working on **Demo Projects**
 
-- 🌱 I’m currently learning **Data Story Telling & Generative AI(Gemini Pro, Open AI, Llama, Langchain, Pinecone, Vector Databases)**
+- 🌱 I’m currently learning **Data Story Telling & Generative AI**
 
 - 👯 I’m Open to collaborate on **Data Analysis Projects** 
 
